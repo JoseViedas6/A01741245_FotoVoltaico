@@ -1,2 +1,16 @@
-# A01741245_FotoVoltaico
-Atlas Eléctrico de México es un sitio web interactivo desarrollado para TE1020 que permite explorar de forma visual y sencilla los recursos energéticos, la generación, transmisión y distribución eléctrica en México. Incluye mapas, gráficas, simuladores, comparaciones y datos documentados para facilitar la comprensión del sistema eléctrico mexicano.
+# Atlas Eléctrico de México
+
+Sitio web interactivo desarrollado para TE1020.
+
+Permite explorar de forma visual y sencilla:
+- Recursos energéticos
+- Generación eléctrica
+- Transmisión
+- Distribución
+- Hallazgos y contexto del sistema eléctrico mexicano
+
+El sitio incluye gráficas, mapas integrados, comparaciones, simuladores y datos documentados.
+
+## Publicación
+
+El archivo principal es `index.html`, por lo que el repositorio puede publicarse directamente con GitHub Pages desde la rama `main` y la carpeta raíz `/`.
